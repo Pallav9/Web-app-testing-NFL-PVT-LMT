@@ -1,0 +1,721 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650353276108,2033,Homepage,200,OK,Thread Group 1-16,text,true,,77824,264,40,40,https://www.nationalfertilizers.com/,164,0,140
+1650353276093,2048,Homepage,200,OK,Thread Group 1-15,text,true,,77824,264,40,40,https://www.nationalfertilizers.com/,179,0,156
+1650353276108,167,Homepage-0,301,Moved Permanently,Thread Group 1-16,text,true,,640,132,40,40,http://www.nationalfertilizers.com/,164,0,140
+1650353276093,182,Homepage-0,301,Moved Permanently,Thread Group 1-15,text,true,,640,132,40,40,http://www.nationalfertilizers.com/,179,0,156
+1650353276285,1856,Homepage-1,200,OK,Thread Group 1-16,text,true,,77184,132,40,40,https://www.nationalfertilizers.com/,1814,0,1450
+1650353276285,1856,Homepage-1,200,OK,Thread Group 1-15,text,true,,77184,132,40,40,https://www.nationalfertilizers.com/,1818,0,1450
+1650353278146,377,Careers,200,OK,Thread Group 1-16,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353278146,12,Careers-0,301,Moved Permanently,Thread Group 1-16,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353278159,364,Careers-1,200,OK,Thread Group 1-16,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,330,0,0
+1650353278146,506,Careers,200,OK,Thread Group 1-15,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353278146,14,Careers-0,301,Moved Permanently,Thread Group 1-15,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353278161,491,Careers-1,200,OK,Thread Group 1-15,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,329,0,0
+1650353278524,427,About us,200,OK,Thread Group 1-16,text,true,,99879,398,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353278524,11,About us-0,301,Moved Permanently,Thread Group 1-16,text,true,,789,199,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353278536,415,About us-1,200,OK,Thread Group 1-16,text,true,,99090,199,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,405,0,0
+1650353275897,3126,Homepage,200,OK,Thread Group 1-2,text,true,,77824,264,40,40,https://www.nationalfertilizers.com/,717,0,350
+1650353275897,717,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,640,132,40,40,http://www.nationalfertilizers.com/,717,0,350
+1650353276615,2408,Homepage-1,200,OK,Thread Group 1-2,text,true,,77184,132,40,40,https://www.nationalfertilizers.com/,2393,0,2064
+1650353278653,401,About us,200,OK,Thread Group 1-15,text,true,,99879,398,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353278653,12,About us-0,301,Moved Permanently,Thread Group 1-15,text,true,,789,199,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353278665,389,About us-1,200,OK,Thread Group 1-15,text,true,,99090,199,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,380,0,0
+1650353276206,2976,Homepage,200,OK,Thread Group 1-20,text,true,,77824,264,40,40,https://www.nationalfertilizers.com/,65,0,41
+1650353276206,69,Homepage-0,301,Moved Permanently,Thread Group 1-20,text,true,,640,132,40,40,http://www.nationalfertilizers.com/,65,0,41
+1650353276279,2903,Homepage-1,200,OK,Thread Group 1-20,text,true,,77184,132,40,40,https://www.nationalfertilizers.com/,2889,0,2400
+1650353278953,369,Homepage,200,OK,Thread Group 1-16,text,true,,77822,264,40,40,https://www.nationalfertilizers.com/,15,0,0
+1650353278953,15,Homepage-0,301,Moved Permanently,Thread Group 1-16,text,true,,639,132,40,40,http://www.nationalfertilizers.com/,15,0,0
+1650353278968,354,Homepage-1,200,OK,Thread Group 1-16,text,true,,77183,132,40,40,https://www.nationalfertilizers.com/,348,0,0
+1650353279055,564,Homepage,200,OK,Thread Group 1-15,text,true,,77822,264,40,40,https://www.nationalfertilizers.com/,12,0,0
+1650353279055,12,Homepage-0,301,Moved Permanently,Thread Group 1-15,text,true,,639,132,40,40,http://www.nationalfertilizers.com/,12,0,0
+1650353279067,552,Homepage-1,200,OK,Thread Group 1-15,text,true,,77183,132,40,40,https://www.nationalfertilizers.com/,547,0,0
+1650353279024,730,Careers,200,OK,Thread Group 1-2,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353279024,16,Careers-0,301,Moved Permanently,Thread Group 1-2,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353279040,714,Careers-1,200,OK,Thread Group 1-2,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,665,0,0
+1650353279183,608,Careers,200,OK,Thread Group 1-20,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353279183,18,Careers-0,301,Moved Permanently,Thread Group 1-20,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353279201,590,Careers-1,200,OK,Thread Group 1-20,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,578,0,0
+1650353279323,512,Careers,200,OK,Thread Group 1-16,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353279323,12,Careers-0,301,Moved Permanently,Thread Group 1-16,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353279336,499,Careers-1,200,OK,Thread Group 1-16,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,478,0,0
+1650353279619,723,Careers,200,OK,Thread Group 1-15,text,true,,83840,382,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353279619,16,Careers-0,301,Moved Permanently,Thread Group 1-15,text,true,,769,191,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353279635,707,Careers-1,200,OK,Thread Group 1-15,text,true,,83071,191,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,695,0,0
+1650353275898,4466,Homepage,200,OK,Thread Group 1-4,text,true,,77824,264,40,40,https://www.nationalfertilizers.com/,2859,0,350
+1650353275898,2859,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,640,132,40,40,http://www.nationalfertilizers.com/,2859,0,350
+1650353278758,1606,Homepage-1,200,OK,Thread Group 1-4,text,true,,77184,132,40,40,https://www.nationalfertilizers.com/,1582,0,1012
+1650353279791,578,About us,200,OK,Thread Group 1-20,text,true,,99879,398,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353279791,12,About us-0,301,Moved Permanently,Thread Group 1-20,text,true,,789,199,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353279803,566,About us-1,200,OK,Thread Group 1-20,text,true,,99090,199,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,555,0,0
+1650353279755,639,About us,200,OK,Thread Group 1-2,text,true,,99879,398,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353279755,16,About us-0,301,Moved Permanently,Thread Group 1-2,text,true,,789,199,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353279771,623,About us-1,200,OK,Thread Group 1-2,text,true,,99090,199,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,604,0,0
+1650353279836,559,About us,200,OK,Thread Group 1-16,text,true,,99879,398,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353279836,19,About us-0,301,Moved Permanently,Thread Group 1-16,text,true,,789,199,40,40,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353279855,540,About us-1,200,OK,Thread Group 1-16,text,true,,99090,199,40,40,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,525,0,0
+1650353275960,4455,Homepage,200,OK,Thread Group 1-10,text,true,,77824,264,39,39,https://www.nationalfertilizers.com/,2898,0,287
+1650353275960,2898,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,640,132,39,39,http://www.nationalfertilizers.com/,2898,0,287
+1650353278860,1555,Homepage-1,200,OK,Thread Group 1-10,text,true,,77184,132,39,39,https://www.nationalfertilizers.com/,1533,0,904
+1650353280349,451,About us,200,OK,Thread Group 1-15,text,true,,99879,398,39,39,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,24,0,0
+1650353280349,24,About us-0,301,Moved Permanently,Thread Group 1-15,text,true,,789,199,39,39,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,24,0,0
+1650353280373,427,About us-1,200,OK,Thread Group 1-15,text,true,,99090,199,39,39,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,401,0,0
+1650353280365,806,Careers,200,OK,Thread Group 1-4,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353280365,15,Careers-0,301,Moved Permanently,Thread Group 1-4,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353280380,791,Careers-1,200,OK,Thread Group 1-4,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,779,0,0
+1650353280370,905,Homepage,200,OK,Thread Group 1-20,text,true,,77822,264,38,38,https://www.nationalfertilizers.com/,14,0,0
+1650353280370,14,Homepage-0,301,Moved Permanently,Thread Group 1-20,text,true,,639,132,38,38,http://www.nationalfertilizers.com/,14,0,0
+1650353280385,890,Homepage-1,200,OK,Thread Group 1-20,text,true,,77183,132,38,38,https://www.nationalfertilizers.com/,879,0,0
+1650353280396,971,Homepage,200,OK,Thread Group 1-2,text,true,,77822,264,38,38,https://www.nationalfertilizers.com/,14,0,0
+1650353280396,14,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,639,132,38,38,http://www.nationalfertilizers.com/,14,0,0
+1650353280410,957,Homepage-1,200,OK,Thread Group 1-2,text,true,,77183,132,38,38,https://www.nationalfertilizers.com/,945,0,0
+1650353280416,1113,Careers,200,OK,Thread Group 1-10,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353280416,11,Careers-0,301,Moved Permanently,Thread Group 1-10,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353280427,1102,Careers-1,200,OK,Thread Group 1-10,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,1075,0,0
+1650353275897,6265,Homepage,200,OK,Thread Group 1-3,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4723,0,350
+1650353275897,4724,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4723,0,350
+1650353280622,1540,Homepage-1,200,OK,Thread Group 1-3,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1527,0,208
+1650353275916,6288,Homepage,200,OK,Thread Group 1-7,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4682,0,331
+1650353275916,4682,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4682,0,331
+1650353280600,1604,Homepage-1,200,OK,Thread Group 1-7,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1534,0,245
+1650353276230,6023,Homepage,200,OK,Thread Group 1-21,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4098,0,17
+1650353276230,4099,Homepage-0,301,Moved Permanently,Thread Group 1-21,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4098,0,17
+1650353280331,1922,Homepage-1,200,OK,Thread Group 1-21,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1854,0,521
+1650353275897,6610,Homepage,200,OK,Thread Group 1-6,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4703,0,350
+1650353275897,4703,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4703,0,350
+1650353280602,1905,Homepage-1,200,OK,Thread Group 1-6,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1798,0,244
+1650353276046,6585,Homepage,200,OK,Thread Group 1-13,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4597,0,202
+1650353276046,4597,Homepage-0,301,Moved Permanently,Thread Group 1-13,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4597,0,202
+1650353280645,1986,Homepage-1,200,OK,Thread Group 1-13,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1859,0,217
+1650353276156,6476,Homepage,200,OK,Thread Group 1-18,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4377,0,93
+1650353276156,4377,Homepage-0,301,Moved Permanently,Thread Group 1-18,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4377,0,93
+1650353280534,2098,Homepage-1,200,OK,Thread Group 1-18,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,1994,0,268
+1650353276134,6659,Homepage,200,OK,Thread Group 1-17,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4534,0,113
+1650353276134,4534,Homepage-0,301,Moved Permanently,Thread Group 1-17,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4534,0,113
+1650353280669,2124,Homepage-1,200,OK,Thread Group 1-17,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,2033,0,175
+1650353275916,7097,Homepage,200,OK,Thread Group 1-8,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4755,0,331
+1650353275916,4755,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4755,0,331
+1650353280672,2341,Homepage-1,200,OK,Thread Group 1-8,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,2203,0,175
+1650353281275,2232,Careers,200,OK,Thread Group 1-20,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353281275,20,Careers-0,301,Moved Permanently,Thread Group 1-20,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353281295,2212,Careers-1,200,OK,Thread Group 1-20,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,1988,0,0
+1650353281171,2389,About us,200,OK,Thread Group 1-4,text,true,,99879,398,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353281171,20,About us-0,301,Moved Permanently,Thread Group 1-4,text,true,,789,199,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353281191,2369,About us-1,200,OK,Thread Group 1-4,text,true,,99090,199,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2211,0,0
+1650353281367,2547,Careers,200,OK,Thread Group 1-2,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353281367,15,Careers-0,301,Moved Permanently,Thread Group 1-2,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353281382,2532,Careers-1,200,OK,Thread Group 1-2,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2493,0,0
+1650353281530,2445,About us,200,OK,Thread Group 1-10,text,true,,99879,398,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353281530,21,About us-0,301,Moved Permanently,Thread Group 1-10,text,true,,789,199,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353281552,2423,About us-1,200,OK,Thread Group 1-10,text,true,,99090,199,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2390,0,0
+1650353282204,3092,Careers,200,OK,Thread Group 1-7,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353282204,12,Careers-0,301,Moved Permanently,Thread Group 1-7,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353282216,3080,Careers-1,200,OK,Thread Group 1-7,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3037,0,0
+1650353275983,9452,Homepage,200,OK,Thread Group 1-11,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5778,0,265
+1650353275983,5778,Homepage-0,301,Moved Permanently,Thread Group 1-11,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5778,0,265
+1650353281762,3673,Homepage-1,200,OK,Thread Group 1-11,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3552,0,327
+1650353282252,3368,Careers,200,OK,Thread Group 1-21,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353282252,20,Careers-0,301,Moved Permanently,Thread Group 1-21,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353282272,3348,Careers-1,200,OK,Thread Group 1-21,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3240,0,0
+1650353276183,9512,Homepage,200,OK,Thread Group 1-19,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4645,0,66
+1650353276183,4645,Homepage-0,301,Moved Permanently,Thread Group 1-19,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4645,0,66
+1650353280828,4867,Homepage-1,200,OK,Thread Group 1-19,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,4749,0,1277
+1650353275898,9798,Homepage,200,OK,Thread Group 1-1,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4926,0,351
+1650353275898,4926,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4926,0,351
+1650353280825,4871,Homepage-1,200,OK,Thread Group 1-1,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,4763,0,1283
+1650353275897,9801,Homepage,200,OK,Thread Group 1-5,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4930,0,350
+1650353275897,4930,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4930,0,350
+1650353280829,4869,Homepage-1,200,OK,Thread Group 1-5,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,4768,0,1281
+1650353276328,9378,Homepage,200,OK,Thread Group 1-25,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5648,0,10
+1650353276328,5648,Homepage-0,301,Moved Permanently,Thread Group 1-25,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5648,0,10
+1650353281976,3730,Homepage-1,200,OK,Thread Group 1-25,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3583,0,242
+1650353276406,9325,Homepage,200,OK,Thread Group 1-28,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5584,0,10
+1650353276406,5584,Homepage-0,301,Moved Permanently,Thread Group 1-28,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5584,0,10
+1650353281990,3741,Homepage-1,200,OK,Thread Group 1-28,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3730,0,282
+1650353276255,9497,Homepage,200,OK,Thread Group 1-22,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5711,0,10
+1650353276255,5711,Homepage-0,301,Moved Permanently,Thread Group 1-22,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5711,0,10
+1650353281967,3785,Homepage-1,200,OK,Thread Group 1-22,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3664,0,232
+1650353276287,9477,Homepage,200,OK,Thread Group 1-23,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5679,0,10
+1650353276287,5679,Homepage-0,301,Moved Permanently,Thread Group 1-23,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5679,0,10
+1650353281967,3797,Homepage-1,200,OK,Thread Group 1-23,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3634,0,238
+1650353282162,3628,Careers,200,OK,Thread Group 1-3,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353282162,16,Careers-0,301,Moved Permanently,Thread Group 1-3,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353282178,3612,Careers-1,200,OK,Thread Group 1-3,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3470,0,0
+1650353282631,3176,Careers,200,OK,Thread Group 1-18,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282631,13,Careers-0,301,Moved Permanently,Thread Group 1-18,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282644,3163,Careers-1,200,OK,Thread Group 1-18,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3058,0,0
+1650353276006,9814,Homepage,200,OK,Thread Group 1-12,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,4836,0,241
+1650353276006,4836,Homepage-0,301,Moved Permanently,Thread Group 1-12,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,4836,0,241
+1650353280842,4978,Homepage-1,200,OK,Thread Group 1-12,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,4884,0,1263
+1650353275936,9943,Homepage,200,OK,Thread Group 1-9,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,6030,0,311
+1650353275936,6030,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,6030,0,311
+1650353281967,3912,Homepage-1,200,OK,Thread Group 1-9,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3793,0,239
+1650353276431,9453,Homepage,200,OK,Thread Group 1-29,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5731,0,18
+1650353276431,5731,Homepage-0,301,Moved Permanently,Thread Group 1-29,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5731,0,18
+1650353282163,3721,Homepage-1,200,OK,Thread Group 1-29,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3665,0,201
+1650353283013,2895,Careers,200,OK,Thread Group 1-8,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353283013,14,Careers-0,301,Moved Permanently,Thread Group 1-8,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353283027,2881,Careers-1,200,OK,Thread Group 1-8,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2865,0,0
+1650353282793,3166,Careers,200,OK,Thread Group 1-17,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282793,13,Careers-0,301,Moved Permanently,Thread Group 1-17,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282807,3152,Careers-1,200,OK,Thread Group 1-17,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3088,0,0
+1650353276302,9720,Homepage,200,OK,Thread Group 1-24,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5669,0,10
+1650353276302,5669,Homepage-0,301,Moved Permanently,Thread Group 1-24,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5669,0,10
+1650353281971,4051,Homepage-1,200,OK,Thread Group 1-24,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3981,0,295
+1650353276379,9654,Homepage,200,OK,Thread Group 1-27,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5607,0,11
+1650353276379,5607,Homepage-0,301,Moved Permanently,Thread Group 1-27,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5607,0,11
+1650353281986,4047,Homepage-1,200,OK,Thread Group 1-27,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3925,0,286
+1650353282631,3419,Careers,200,OK,Thread Group 1-13,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282631,13,Careers-0,301,Moved Permanently,Thread Group 1-13,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353282644,3406,Careers-1,200,OK,Thread Group 1-13,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3311,0,0
+1650353276356,9695,Homepage,200,OK,Thread Group 1-26,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5623,0,11
+1650353276356,5623,Homepage-0,301,Moved Permanently,Thread Group 1-26,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5623,0,11
+1650353281983,4068,Homepage-1,200,OK,Thread Group 1-26,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3971,0,283
+1650353276505,9556,Homepage,200,OK,Thread Group 1-32,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5670,0,10
+1650353276505,5670,Homepage-0,301,Moved Permanently,Thread Group 1-32,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5670,0,10
+1650353282176,3885,Homepage-1,200,OK,Thread Group 1-32,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3743,0,196
+1650353276481,9582,Homepage,200,OK,Thread Group 1-31,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5690,0,10
+1650353276481,5690,Homepage-0,301,Moved Permanently,Thread Group 1-31,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5690,0,10
+1650353282172,3891,Homepage-1,200,OK,Thread Group 1-31,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3814,0,216
+1650353282507,3668,Careers,200,OK,Thread Group 1-6,text,true,,83840,382,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353282507,16,Careers-0,301,Moved Permanently,Thread Group 1-6,text,true,,769,191,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353282524,3651,Careers-1,200,OK,Thread Group 1-6,text,true,,83071,191,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3390,0,0
+1650353276456,9735,Homepage,200,OK,Thread Group 1-30,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5710,0,10
+1650353276456,5710,Homepage-0,301,Moved Permanently,Thread Group 1-30,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5710,0,10
+1650353282167,4024,Homepage-1,200,OK,Thread Group 1-30,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3933,0,214
+1650353276580,10574,Homepage,200,OK,Thread Group 1-35,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,6811,0,10
+1650353276580,6811,Homepage-0,301,Moved Permanently,Thread Group 1-35,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,6811,0,10
+1650353283392,3762,Homepage-1,200,OK,Thread Group 1-35,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3703,0,254
+1650353283561,3621,Homepage,200,OK,Thread Group 1-4,text,true,,77822,264,38,38,https://www.nationalfertilizers.com/,14,0,0
+1650353283561,14,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,639,132,38,38,http://www.nationalfertilizers.com/,14,0,0
+1650353283575,3607,Homepage-1,200,OK,Thread Group 1-4,text,true,,77183,132,38,38,https://www.nationalfertilizers.com/,3595,0,0
+1650353276660,10602,Homepage,200,OK,Thread Group 1-38,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,6795,0,12
+1650353276660,6796,Homepage-0,301,Moved Permanently,Thread Group 1-38,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,6795,0,12
+1650353283456,3806,Homepage-1,200,OK,Thread Group 1-38,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3680,0,187
+1650353276610,10731,Homepage,200,OK,Thread Group 1-36,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,6827,0,14
+1650353276610,6827,Homepage-0,301,Moved Permanently,Thread Group 1-36,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,6827,0,14
+1650353283437,3904,Homepage-1,200,OK,Thread Group 1-36,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3757,0,223
+1650353276553,10797,Homepage,200,OK,Thread Group 1-34,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,6832,0,11
+1650353276553,6832,Homepage-0,301,Moved Permanently,Thread Group 1-34,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,6832,0,11
+1650353283385,3965,Homepage-1,200,OK,Thread Group 1-34,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,3847,0,260
+1650353283508,3843,About us,200,OK,Thread Group 1-20,text,true,,99879,398,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353283508,21,About us-0,301,Moved Permanently,Thread Group 1-20,text,true,,789,199,38,38,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353283530,3821,About us-1,200,OK,Thread Group 1-20,text,true,,99090,199,38,38,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3671,0,0
+1650353276529,10823,Homepage,200,OK,Thread Group 1-33,text,true,,77824,264,38,38,https://www.nationalfertilizers.com/,5652,0,10
+1650353276529,5652,Homepage-0,301,Moved Permanently,Thread Group 1-33,text,true,,640,132,38,38,http://www.nationalfertilizers.com/,5652,0,10
+1650353282181,5171,Homepage-1,200,OK,Thread Group 1-33,text,true,,77184,132,38,38,https://www.nationalfertilizers.com/,5054,0,1383
+1650353283976,3422,Homepage,200,OK,Thread Group 1-10,text,true,,77822,264,37,37,https://www.nationalfertilizers.com/,18,0,0
+1650353283976,18,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,639,132,37,37,http://www.nationalfertilizers.com/,18,0,0
+1650353283994,3404,Homepage-1,200,OK,Thread Group 1-10,text,true,,77183,132,37,37,https://www.nationalfertilizers.com/,3384,0,0
+1650353276703,10800,Homepage,200,OK,Thread Group 1-40,text,true,,77824,264,37,37,https://www.nationalfertilizers.com/,6848,0,10
+1650353276703,6848,Homepage-0,301,Moved Permanently,Thread Group 1-40,text,true,,640,132,37,37,http://www.nationalfertilizers.com/,6848,0,10
+1650353283551,3952,Homepage-1,200,OK,Thread Group 1-40,text,true,,77184,132,37,37,https://www.nationalfertilizers.com/,3805,0,238
+1650353276679,10826,Homepage,200,OK,Thread Group 1-39,text,true,,77824,264,37,37,https://www.nationalfertilizers.com/,6794,0,12
+1650353276679,6794,Homepage-0,301,Moved Permanently,Thread Group 1-39,text,true,,640,132,37,37,http://www.nationalfertilizers.com/,6794,0,12
+1650353283473,4032,Homepage-1,200,OK,Thread Group 1-39,text,true,,77184,132,37,37,https://www.nationalfertilizers.com/,3861,0,249
+1650353276630,11143,Homepage,200,OK,Thread Group 1-37,text,true,,77824,264,37,37,https://www.nationalfertilizers.com/,6822,0,10
+1650353276630,6822,Homepage-0,301,Moved Permanently,Thread Group 1-37,text,true,,640,132,37,37,http://www.nationalfertilizers.com/,6822,0,10
+1650353283453,4320,Homepage-1,200,OK,Thread Group 1-37,text,true,,77184,132,37,37,https://www.nationalfertilizers.com/,4175,0,197
+1650353283915,3884,About us,200,OK,Thread Group 1-2,text,true,,99879,398,37,37,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353283915,19,About us-0,301,Moved Permanently,Thread Group 1-2,text,true,,789,199,37,37,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353283935,3864,About us-1,200,OK,Thread Group 1-2,text,true,,99090,199,37,37,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3710,0,0
+1650353285298,3337,About us,200,OK,Thread Group 1-7,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353285298,20,About us-0,301,Moved Permanently,Thread Group 1-7,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353285318,3317,About us-1,200,OK,Thread Group 1-7,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3211,0,0
+1650353285435,3335,Careers,200,OK,Thread Group 1-11,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353285435,21,Careers-0,301,Moved Permanently,Thread Group 1-11,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353285456,3314,Careers-1,200,OK,Thread Group 1-11,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3196,0,0
+1650353285752,3397,Careers,200,OK,Thread Group 1-22,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353285752,19,Careers-0,301,Moved Permanently,Thread Group 1-22,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353285772,3377,Careers-1,200,OK,Thread Group 1-22,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3273,0,0
+1650353285820,3335,Careers,200,OK,Thread Group 1-12,text,true,,83841,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,36,0,23
+1650353285820,36,Careers-0,301,Moved Permanently,Thread Group 1-12,text,true,,770,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,36,0,23
+1650353285857,3298,Careers-1,200,OK,Thread Group 1-12,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3186,0,0
+1650353285698,3553,Careers,200,OK,Thread Group 1-5,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,28,0,0
+1650353285698,28,Careers-0,301,Moved Permanently,Thread Group 1-5,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,28,0,0
+1650353285726,3525,Careers-1,200,OK,Thread Group 1-5,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3389,0,0
+1650353285696,3558,Careers,200,OK,Thread Group 1-1,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285696,20,Careers-0,301,Moved Permanently,Thread Group 1-1,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285716,3538,Careers-1,200,OK,Thread Group 1-1,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3326,0,0
+1650353285910,3353,About us,200,OK,Thread Group 1-8,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353285910,14,About us-0,301,Moved Permanently,Thread Group 1-8,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353285924,3339,About us-1,200,OK,Thread Group 1-8,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3246,0,0
+1650353285731,3565,Careers,200,OK,Thread Group 1-28,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353285731,18,Careers-0,301,Moved Permanently,Thread Group 1-28,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353285749,3547,Careers-1,200,OK,Thread Group 1-28,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3285,0,0
+1650353285808,3501,About us,200,OK,Thread Group 1-18,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285808,11,About us-0,301,Moved Permanently,Thread Group 1-18,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285820,3489,About us-1,200,OK,Thread Group 1-18,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3465,0,0
+1650353285707,3635,Careers,200,OK,Thread Group 1-25,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285707,20,Careers-0,301,Moved Permanently,Thread Group 1-25,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285727,3615,Careers-1,200,OK,Thread Group 1-25,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3515,0,0
+1650353285695,3671,Careers,200,OK,Thread Group 1-19,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285695,21,Careers-0,301,Moved Permanently,Thread Group 1-19,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353285716,3650,Careers-1,200,OK,Thread Group 1-19,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3500,0,0
+1650353285621,3775,About us,200,OK,Thread Group 1-21,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353285621,18,About us-0,301,Moved Permanently,Thread Group 1-21,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353285639,3757,About us-1,200,OK,Thread Group 1-21,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3627,0,0
+1650353285791,3631,About us,200,OK,Thread Group 1-3,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285791,11,About us-0,301,Moved Permanently,Thread Group 1-3,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285802,3620,About us-1,200,OK,Thread Group 1-3,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3511,0,0
+1650353285881,3550,Careers,200,OK,Thread Group 1-9,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353285881,13,Careers-0,301,Moved Permanently,Thread Group 1-9,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353285894,3537,Careers-1,200,OK,Thread Group 1-9,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3432,0,0
+1650353285765,3683,Careers,200,OK,Thread Group 1-23,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353285765,12,Careers-0,301,Moved Permanently,Thread Group 1-23,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353285778,3670,Careers-1,200,OK,Thread Group 1-23,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3548,0,0
+1650353285961,3507,About us,200,OK,Thread Group 1-17,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285961,11,About us-0,301,Moved Permanently,Thread Group 1-17,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353285973,3495,About us-1,200,OK,Thread Group 1-17,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3474,0,0
+1650353286035,3450,Careers,200,OK,Thread Group 1-27,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353286035,11,Careers-0,301,Moved Permanently,Thread Group 1-27,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353286046,3439,Careers-1,200,OK,Thread Group 1-27,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3313,0,0
+1650353286176,3347,About us,200,OK,Thread Group 1-6,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353286176,21,About us-0,301,Moved Permanently,Thread Group 1-6,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353286197,3326,About us-1,200,OK,Thread Group 1-6,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3190,0,0
+1650353286067,3470,Careers,200,OK,Thread Group 1-31,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353286067,10,Careers-0,301,Moved Permanently,Thread Group 1-31,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353286077,3460,Careers-1,200,OK,Thread Group 1-31,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3330,0,0
+1650353286024,3532,Careers,200,OK,Thread Group 1-24,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353286024,15,Careers-0,301,Moved Permanently,Thread Group 1-24,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353286040,3516,Careers-1,200,OK,Thread Group 1-24,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3395,0,0
+1650353286063,3504,Careers,200,OK,Thread Group 1-32,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353286063,14,Careers-0,301,Moved Permanently,Thread Group 1-32,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353286078,3489,Careers-1,200,OK,Thread Group 1-32,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3384,0,0
+1650353285886,3713,Careers,200,OK,Thread Group 1-29,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353285886,15,Careers-0,301,Moved Permanently,Thread Group 1-29,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353285901,3698,Careers-1,200,OK,Thread Group 1-29,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3592,0,0
+1650353286052,3583,About us,200,OK,Thread Group 1-13,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353286052,13,About us-0,301,Moved Permanently,Thread Group 1-13,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353286066,3569,About us-1,200,OK,Thread Group 1-13,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3546,0,0
+1650353286193,3452,Careers,200,OK,Thread Group 1-30,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,17,0,0
+1650353286193,17,Careers-0,301,Moved Permanently,Thread Group 1-30,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,17,0,0
+1650353286210,3435,Careers-1,200,OK,Thread Group 1-30,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3278,0,0
+1650353286053,3668,Careers,200,OK,Thread Group 1-26,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353286053,12,Careers-0,301,Moved Permanently,Thread Group 1-26,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353286066,3655,Careers-1,200,OK,Thread Group 1-26,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3605,0,0
+1650353287264,3136,Careers,200,OK,Thread Group 1-38,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353287264,10,Careers-0,301,Moved Permanently,Thread Group 1-38,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353287275,3125,Careers-1,200,OK,Thread Group 1-38,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3038,0,0
+1650353287184,3328,Careers,200,OK,Thread Group 1-4,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353287184,19,Careers-0,301,Moved Permanently,Thread Group 1-4,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353287204,3308,Careers-1,200,OK,Thread Group 1-4,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3180,0,0
+1650353287343,3245,Careers,200,OK,Thread Group 1-36,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353287343,21,Careers-0,301,Moved Permanently,Thread Group 1-36,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353287365,3223,Careers-1,200,OK,Thread Group 1-36,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3119,0,0
+1650353287351,3251,Careers,200,OK,Thread Group 1-34,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353287351,14,Careers-0,301,Moved Permanently,Thread Group 1-34,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353287365,3237,Careers-1,200,OK,Thread Group 1-34,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3132,0,0
+1650353287505,3166,Careers,200,OK,Thread Group 1-40,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353287505,15,Careers-0,301,Moved Permanently,Thread Group 1-40,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353287520,3151,Careers-1,200,OK,Thread Group 1-40,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3062,0,0
+1650353287156,3582,Careers,200,OK,Thread Group 1-35,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353287156,21,Careers-0,301,Moved Permanently,Thread Group 1-35,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,21,0,0
+1650353287178,3560,Careers-1,200,OK,Thread Group 1-35,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3391,0,0
+1650353287353,3480,Careers,200,OK,Thread Group 1-33,text,true,,83841,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,32,0,10
+1650353287353,32,Careers-0,301,Moved Permanently,Thread Group 1-33,text,true,,770,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,32,0,10
+1650353287385,3448,Careers-1,200,OK,Thread Group 1-33,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3305,0,0
+1650353287400,3440,Careers,200,OK,Thread Group 1-10,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353287400,12,Careers-0,301,Moved Permanently,Thread Group 1-10,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353287412,3428,Careers-1,200,OK,Thread Group 1-10,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3405,0,0
+1650353287507,3383,Careers,200,OK,Thread Group 1-39,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353287507,16,Careers-0,301,Moved Permanently,Thread Group 1-39,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353287523,3367,Careers-1,200,OK,Thread Group 1-39,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3226,0,0
+1650353287775,3407,Careers,200,OK,Thread Group 1-37,text,true,,83840,382,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353287775,18,Careers-0,301,Moved Permanently,Thread Group 1-37,text,true,,769,191,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353287794,3388,Careers-1,200,OK,Thread Group 1-37,text,true,,83071,191,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3249,0,0
+1650353288772,3464,About us,200,OK,Thread Group 1-11,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353288772,11,About us-0,301,Moved Permanently,Thread Group 1-11,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353288783,3453,About us-1,200,OK,Thread Group 1-11,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3434,0,0
+1650353288639,3617,Homepage,200,OK,Thread Group 1-7,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,17,0,0
+1650353288639,17,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,17,0,0
+1650353288657,3599,Homepage-1,200,OK,Thread Group 1-7,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3587,0,0
+1650353289150,3654,About us,200,OK,Thread Group 1-22,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353289150,16,About us-0,301,Moved Permanently,Thread Group 1-22,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353289166,3638,About us-1,200,OK,Thread Group 1-22,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3561,0,0
+1650353289156,3689,About us,200,OK,Thread Group 1-12,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289156,19,About us-0,301,Moved Permanently,Thread Group 1-12,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289175,3670,About us-1,200,OK,Thread Group 1-12,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3552,0,0
+1650353289298,3580,About us,200,OK,Thread Group 1-28,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289298,19,About us-0,301,Moved Permanently,Thread Group 1-28,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289317,3561,About us-1,200,OK,Thread Group 1-28,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3430,0,0
+1650353289255,3739,About us,200,OK,Thread Group 1-1,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353289255,23,About us-0,301,Moved Permanently,Thread Group 1-1,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353289279,3715,About us-1,200,OK,Thread Group 1-1,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3550,0,0
+1650353289343,3656,About us,200,OK,Thread Group 1-25,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353289343,17,About us-0,301,Moved Permanently,Thread Group 1-25,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353289361,3638,About us-1,200,OK,Thread Group 1-25,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3616,0,0
+1650353289264,3748,Homepage,200,OK,Thread Group 1-8,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,14,0,0
+1650353289264,14,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,14,0,0
+1650353289279,3733,Homepage-1,200,OK,Thread Group 1-8,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3714,0,0
+1650353289398,3700,Homepage,200,OK,Thread Group 1-21,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,21,0,0
+1650353289398,22,Homepage-0,301,Moved Permanently,Thread Group 1-21,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,21,0,0
+1650353289420,3678,Homepage-1,200,OK,Thread Group 1-21,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3663,0,0
+1650353289253,3851,About us,200,OK,Thread Group 1-5,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,24,0,0
+1650353289253,24,About us-0,301,Moved Permanently,Thread Group 1-5,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,24,0,0
+1650353289277,3827,About us-1,200,OK,Thread Group 1-5,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3804,0,0
+1650353289367,3757,About us,200,OK,Thread Group 1-19,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353289367,12,About us-0,301,Moved Permanently,Thread Group 1-19,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353289379,3745,About us-1,200,OK,Thread Group 1-19,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3614,0,0
+1650353289485,3681,About us,200,OK,Thread Group 1-27,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289485,19,About us-0,301,Moved Permanently,Thread Group 1-27,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353289505,3661,About us-1,200,OK,Thread Group 1-27,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3505,0,0
+1650353289538,3632,About us,200,OK,Thread Group 1-31,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289538,13,About us-0,301,Moved Permanently,Thread Group 1-31,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289552,3618,About us-1,200,OK,Thread Group 1-31,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3468,0,0
+1650353289424,3756,Homepage,200,OK,Thread Group 1-3,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,11,0,0
+1650353289424,11,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,11,0,0
+1650353289435,3745,Homepage-1,200,OK,Thread Group 1-3,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3614,0,0
+1650353289450,3812,About us,200,OK,Thread Group 1-23,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353289450,14,About us-0,301,Moved Permanently,Thread Group 1-23,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353289464,3798,About us-1,200,OK,Thread Group 1-23,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3662,0,0
+1650353289432,3860,About us,200,OK,Thread Group 1-9,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,28,0,0
+1650353289432,28,About us-0,301,Moved Permanently,Thread Group 1-9,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,28,0,0
+1650353289460,3832,About us-1,200,OK,Thread Group 1-9,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3809,0,0
+1650353289557,3746,About us,200,OK,Thread Group 1-24,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289557,13,About us-0,301,Moved Permanently,Thread Group 1-24,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289570,3733,About us-1,200,OK,Thread Group 1-24,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3553,0,0
+1650353289567,3753,About us,200,OK,Thread Group 1-32,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289567,13,About us-0,301,Moved Permanently,Thread Group 1-32,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289581,3739,About us-1,200,OK,Thread Group 1-32,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3608,0,0
+1650353289601,3722,About us,200,OK,Thread Group 1-29,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289601,13,About us-0,301,Moved Permanently,Thread Group 1-29,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289614,3709,About us-1,200,OK,Thread Group 1-29,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3690,0,0
+1650353289311,4014,Homepage,200,OK,Thread Group 1-18,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,23,0,0
+1650353289311,23,Homepage-0,301,Moved Permanently,Thread Group 1-18,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,23,0,0
+1650353289334,3991,Homepage-1,200,OK,Thread Group 1-18,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3975,0,0
+1650353289469,3865,Homepage,200,OK,Thread Group 1-17,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,16,0,0
+1650353289469,16,Homepage-0,301,Moved Permanently,Thread Group 1-17,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,16,0,0
+1650353289486,3848,Homepage-1,200,OK,Thread Group 1-17,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3732,0,0
+1650353289646,3697,About us,200,OK,Thread Group 1-30,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289646,13,About us-0,301,Moved Permanently,Thread Group 1-30,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353289660,3683,About us-1,200,OK,Thread Group 1-30,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3664,0,0
+1650353289523,3954,Homepage,200,OK,Thread Group 1-6,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,24,0,0
+1650353289523,24,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,24,0,0
+1650353289547,3930,Homepage-1,200,OK,Thread Group 1-6,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3918,0,0
+1650353289635,3916,Homepage,200,OK,Thread Group 1-13,text,true,,77822,264,36,36,https://www.nationalfertilizers.com/,13,0,0
+1650353289635,13,Homepage-0,301,Moved Permanently,Thread Group 1-13,text,true,,639,132,36,36,http://www.nationalfertilizers.com/,13,0,0
+1650353289648,3903,Homepage-1,200,OK,Thread Group 1-13,text,true,,77183,132,36,36,https://www.nationalfertilizers.com/,3890,0,0
+1650353289721,3938,About us,200,OK,Thread Group 1-26,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353289721,21,About us-0,301,Moved Permanently,Thread Group 1-26,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353289742,3917,About us-1,200,OK,Thread Group 1-26,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3772,0,0
+1650353290513,3240,About us,200,OK,Thread Group 1-4,text,true,,99879,398,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353290513,14,About us-0,301,Moved Permanently,Thread Group 1-4,text,true,,789,199,36,36,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353290528,3225,About us-1,200,OK,Thread Group 1-4,text,true,,99090,199,36,36,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3079,0,0
+1650353290401,3571,About us,200,OK,Thread Group 1-38,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353290401,21,About us-0,301,Moved Permanently,Thread Group 1-38,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353290422,3550,About us-1,200,OK,Thread Group 1-38,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3536,0,0
+1650353290589,3429,About us,200,OK,Thread Group 1-36,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353290589,15,About us-0,301,Moved Permanently,Thread Group 1-36,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353290605,3413,About us-1,200,OK,Thread Group 1-36,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3391,0,0
+1650353290603,3498,About us,200,OK,Thread Group 1-34,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353290603,16,About us-0,301,Moved Permanently,Thread Group 1-34,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353290619,3482,About us-1,200,OK,Thread Group 1-34,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3354,0,0
+1650353290672,3684,About us,200,OK,Thread Group 1-40,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353290672,20,About us-0,301,Moved Permanently,Thread Group 1-40,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353290693,3663,About us-1,200,OK,Thread Group 1-40,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3504,0,0
+1650353290891,3678,About us,200,OK,Thread Group 1-39,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353290891,11,About us-0,301,Moved Permanently,Thread Group 1-39,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353290902,3667,About us-1,200,OK,Thread Group 1-39,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3546,0,0
+1650353290738,3902,About us,200,OK,Thread Group 1-35,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353290738,21,About us-0,301,Moved Permanently,Thread Group 1-35,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353290760,3880,About us-1,200,OK,Thread Group 1-35,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3735,0,0
+1650353290834,3866,About us,200,OK,Thread Group 1-33,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353290834,19,About us-0,301,Moved Permanently,Thread Group 1-33,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353290854,3846,About us-1,200,OK,Thread Group 1-33,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3609,0,0
+1650353290841,3889,About us,200,OK,Thread Group 1-10,text,true,,99879,398,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,10,0,0
+1650353290841,11,About us-0,301,Moved Permanently,Thread Group 1-10,text,true,,789,199,35,35,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,10,0,0
+1650353290852,3878,About us-1,200,OK,Thread Group 1-10,text,true,,99090,199,35,35,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3726,0,0
+1650353291182,3712,About us,200,OK,Thread Group 1-37,text,true,,99879,398,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353291182,14,About us-0,301,Moved Permanently,Thread Group 1-37,text,true,,789,199,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,14,0,0
+1650353291196,3698,About us-1,200,OK,Thread Group 1-37,text,true,,99090,199,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3554,0,0
+1650353292257,3209,Careers,200,OK,Thread Group 1-7,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353292257,11,Careers-0,301,Moved Permanently,Thread Group 1-7,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353292268,3198,Careers-1,200,OK,Thread Group 1-7,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3185,0,0
+1650353292236,3681,Homepage,200,OK,Thread Group 1-11,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,14,0,0
+1650353292236,14,Homepage-0,301,Moved Permanently,Thread Group 1-11,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,14,0,0
+1650353292251,3666,Homepage-1,200,OK,Thread Group 1-11,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3643,0,0
+1650353292804,3536,Homepage,200,OK,Thread Group 1-22,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,21,0,0
+1650353292804,22,Homepage-0,301,Moved Permanently,Thread Group 1-22,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,21,0,0
+1650353292826,3514,Homepage-1,200,OK,Thread Group 1-22,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3501,0,0
+1650353293012,3345,Careers,200,OK,Thread Group 1-8,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353293012,14,Careers-0,301,Moved Permanently,Thread Group 1-8,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353293026,3331,Careers-1,200,OK,Thread Group 1-8,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3287,0,0
+1650353292995,3486,Homepage,200,OK,Thread Group 1-1,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,20,0,0
+1650353292995,20,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,20,0,0
+1650353293015,3466,Homepage-1,200,OK,Thread Group 1-1,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3454,0,0
+1650353292879,3689,Homepage,200,OK,Thread Group 1-28,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353292879,15,Homepage-0,301,Moved Permanently,Thread Group 1-28,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353292894,3674,Homepage-1,200,OK,Thread Group 1-28,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3658,0,0
+1650353293334,3322,Careers,200,OK,Thread Group 1-17,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353293334,16,Careers-0,301,Moved Permanently,Thread Group 1-17,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353293350,3306,Careers-1,200,OK,Thread Group 1-17,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3241,0,0
+1650353293304,3361,Homepage,200,OK,Thread Group 1-24,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,16,0,0
+1650353293304,16,Homepage-0,301,Moved Permanently,Thread Group 1-24,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,16,0,0
+1650353293320,3345,Homepage-1,200,OK,Thread Group 1-24,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3238,0,0
+1650353293326,3345,Careers,200,OK,Thread Group 1-18,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353293326,20,Careers-0,301,Moved Permanently,Thread Group 1-18,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353293346,3325,Careers-1,200,OK,Thread Group 1-18,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3312,0,0
+1650353292846,3840,Homepage,200,OK,Thread Group 1-12,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,13,0,0
+1650353292846,13,Homepage-0,301,Moved Permanently,Thread Group 1-12,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,13,0,0
+1650353292859,3827,Homepage-1,200,OK,Thread Group 1-12,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3693,0,0
+1650353293166,3520,Homepage,200,OK,Thread Group 1-27,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353293166,15,Homepage-0,301,Moved Permanently,Thread Group 1-27,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353293181,3505,Homepage-1,200,OK,Thread Group 1-27,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3427,0,0
+1650353293098,3592,Careers,200,OK,Thread Group 1-21,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353293098,16,Careers-0,301,Moved Permanently,Thread Group 1-21,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353293114,3576,Careers-1,200,OK,Thread Group 1-21,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3473,0,0
+1650353293181,3535,Careers,200,OK,Thread Group 1-3,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353293181,12,Careers-0,301,Moved Permanently,Thread Group 1-3,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353293194,3522,Careers-1,200,OK,Thread Group 1-3,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3420,0,0
+1650353293105,3629,Homepage,200,OK,Thread Group 1-5,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,11,0,0
+1650353293105,11,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,11,0,0
+1650353293116,3618,Homepage-1,200,OK,Thread Group 1-5,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3606,0,0
+1650353293171,3608,Homepage,200,OK,Thread Group 1-31,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,19,0,0
+1650353293171,19,Homepage-0,301,Moved Permanently,Thread Group 1-31,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,19,0,0
+1650353293190,3589,Homepage-1,200,OK,Thread Group 1-31,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3573,0,0
+1650353293324,3462,Homepage,200,OK,Thread Group 1-29,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,14,0,0
+1650353293324,14,Homepage-0,301,Moved Permanently,Thread Group 1-29,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,14,0,0
+1650353293338,3448,Homepage-1,200,OK,Thread Group 1-29,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3434,0,0
+1650353293000,3815,Homepage,200,OK,Thread Group 1-25,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353293000,15,Homepage-0,301,Moved Permanently,Thread Group 1-25,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353293015,3800,Homepage-1,200,OK,Thread Group 1-25,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3540,0,0
+1650353293344,3481,Homepage,200,OK,Thread Group 1-30,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,24,0,0
+1650353293344,24,Homepage-0,301,Moved Permanently,Thread Group 1-30,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,24,0,0
+1650353293368,3457,Homepage-1,200,OK,Thread Group 1-30,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3441,0,0
+1650353293292,3571,Homepage,200,OK,Thread Group 1-9,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,19,0,0
+1650353293292,19,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,19,0,0
+1650353293311,3552,Homepage-1,200,OK,Thread Group 1-9,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3465,0,0
+1650353293320,3598,Homepage,200,OK,Thread Group 1-32,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,10,0,0
+1650353293320,10,Homepage-0,301,Moved Permanently,Thread Group 1-32,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,10,0,0
+1650353293331,3587,Homepage-1,200,OK,Thread Group 1-32,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3458,0,0
+1650353293125,3794,Homepage,200,OK,Thread Group 1-19,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353293125,15,Homepage-0,301,Moved Permanently,Thread Group 1-19,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353293140,3779,Homepage-1,200,OK,Thread Group 1-19,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3671,0,0
+1650353293263,3693,Homepage,200,OK,Thread Group 1-23,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,13,0,0
+1650353293263,13,Homepage-0,301,Moved Permanently,Thread Group 1-23,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,13,0,0
+1650353293277,3679,Homepage-1,200,OK,Thread Group 1-23,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3575,0,0
+1650353293477,3481,Careers,200,OK,Thread Group 1-6,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353293477,13,Careers-0,301,Moved Permanently,Thread Group 1-6,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353293490,3468,Careers-1,200,OK,Thread Group 1-6,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3455,0,0
+1650353293660,3349,Homepage,200,OK,Thread Group 1-26,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,17,0,0
+1650353293660,18,Homepage-0,301,Moved Permanently,Thread Group 1-26,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,17,0,0
+1650353293678,3331,Homepage-1,200,OK,Thread Group 1-26,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3254,0,0
+1650353293551,3460,Careers,200,OK,Thread Group 1-13,text,true,,83840,382,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353293551,13,Careers-0,301,Moved Permanently,Thread Group 1-13,text,true,,769,191,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353293564,3447,Careers-1,200,OK,Thread Group 1-13,text,true,,83071,191,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3323,0,0
+1650353294018,3362,Homepage,200,OK,Thread Group 1-36,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,13,0,0
+1650353294018,13,Homepage-0,301,Moved Permanently,Thread Group 1-36,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,13,0,0
+1650353294032,3348,Homepage-1,200,OK,Thread Group 1-36,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3336,0,0
+1650353293972,3418,Homepage,200,OK,Thread Group 1-38,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,16,0,0
+1650353293972,16,Homepage-0,301,Moved Permanently,Thread Group 1-38,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,16,0,0
+1650353293989,3401,Homepage-1,200,OK,Thread Group 1-38,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3236,0,0
+1650353294102,3386,Homepage,200,OK,Thread Group 1-34,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353294102,15,Homepage-0,301,Moved Permanently,Thread Group 1-34,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353294117,3371,Homepage-1,200,OK,Thread Group 1-34,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3191,0,0
+1650353294357,3402,Homepage,200,OK,Thread Group 1-40,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,17,0,0
+1650353294357,17,Homepage-0,301,Moved Permanently,Thread Group 1-40,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,17,0,0
+1650353294374,3385,Homepage-1,200,OK,Thread Group 1-40,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3372,0,0
+1650353294641,3252,Homepage,200,OK,Thread Group 1-35,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,15,0,0
+1650353294641,15,Homepage-0,301,Moved Permanently,Thread Group 1-35,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,15,0,0
+1650353294656,3237,Homepage-1,200,OK,Thread Group 1-35,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3225,0,0
+1650353294570,3376,Homepage,200,OK,Thread Group 1-39,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,20,0,0
+1650353294570,20,Homepage-0,301,Moved Permanently,Thread Group 1-39,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,20,0,0
+1650353294591,3355,Homepage-1,200,OK,Thread Group 1-39,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3342,0,0
+1650353294700,3386,Homepage,200,OK,Thread Group 1-33,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,10,0,0
+1650353294700,11,Homepage-0,301,Moved Permanently,Thread Group 1-33,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,10,0,0
+1650353294711,3375,Homepage-1,200,OK,Thread Group 1-33,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3278,0,0
+1650353294894,3278,Homepage,200,OK,Thread Group 1-37,text,true,,77822,264,34,34,https://www.nationalfertilizers.com/,11,0,0
+1650353294894,11,Homepage-0,301,Moved Permanently,Thread Group 1-37,text,true,,639,132,34,34,http://www.nationalfertilizers.com/,11,0,0
+1650353294906,3266,Homepage-1,200,OK,Thread Group 1-37,text,true,,77183,132,34,34,https://www.nationalfertilizers.com/,3254,0,0
+1650353295467,3087,About us,200,OK,Thread Group 1-7,text,true,,99879,398,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,26,0,0
+1650353295467,26,About us-0,301,Moved Permanently,Thread Group 1-7,text,true,,789,199,34,34,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,26,0,0
+1650353295493,3061,About us-1,200,OK,Thread Group 1-7,text,true,,99090,199,34,34,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2970,0,0
+1650353295917,2914,Careers,200,OK,Thread Group 1-11,text,true,,83840,382,33,33,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353295917,20,Careers-0,301,Moved Permanently,Thread Group 1-11,text,true,,769,191,33,33,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353295937,2894,Careers-1,200,OK,Thread Group 1-11,text,true,,83071,191,33,33,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2807,0,0
+1650353296357,3009,About us,200,OK,Thread Group 1-8,text,true,,99879,398,33,33,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353296357,17,About us-0,301,Moved Permanently,Thread Group 1-8,text,true,,789,199,33,33,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353296374,2992,About us-1,200,OK,Thread Group 1-8,text,true,,99090,199,33,33,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2930,0,0
+1650353296340,3040,Careers,200,OK,Thread Group 1-22,text,true,,83840,382,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353296340,14,Careers-0,301,Moved Permanently,Thread Group 1-22,text,true,,769,191,32,32,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353296355,3025,Careers-1,200,OK,Thread Group 1-22,text,true,,83071,191,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2899,0,0
+1650353296481,3090,Careers,200,OK,Thread Group 1-1,text,true,,83840,382,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353296481,14,Careers-0,301,Moved Permanently,Thread Group 1-1,text,true,,769,191,32,32,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353296495,3076,Careers-1,200,OK,Thread Group 1-1,text,true,,83071,191,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2992,0,0
+1650353296686,2915,Careers,200,OK,Thread Group 1-12,text,true,,83840,382,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296686,15,Careers-0,301,Moved Permanently,Thread Group 1-12,text,true,,769,191,32,32,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296702,2899,Careers-1,200,OK,Thread Group 1-12,text,true,,83071,191,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2878,0,0
+1650353296657,2967,About us,200,OK,Thread Group 1-17,text,true,,99879,398,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296657,18,About us-0,301,Moved Permanently,Thread Group 1-17,text,true,,789,199,32,32,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296676,2948,About us-1,200,OK,Thread Group 1-17,text,true,,99090,199,32,32,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2918,0,0
+1650353296716,2938,About us,200,OK,Thread Group 1-3,text,true,,99879,398,31,31,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296716,18,About us-0,301,Moved Permanently,Thread Group 1-3,text,true,,789,199,31,31,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296734,2920,About us-1,200,OK,Thread Group 1-3,text,true,,99090,199,31,31,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2896,0,0
+1650353296569,3122,Careers,200,OK,Thread Group 1-28,text,true,,83840,382,30,30,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,244,0,0
+1650353296569,244,Careers-0,301,Moved Permanently,Thread Group 1-28,text,true,,769,191,30,30,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,244,0,0
+1650353296813,2878,Careers-1,200,OK,Thread Group 1-28,text,true,,83071,191,30,30,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2863,0,0
+1650353296671,3073,About us,200,OK,Thread Group 1-18,text,true,,99879,398,30,30,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353296671,15,About us-0,301,Moved Permanently,Thread Group 1-18,text,true,,789,199,30,30,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353296687,3057,About us-1,200,OK,Thread Group 1-18,text,true,,99090,199,30,30,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2959,0,0
+1650353296735,3034,Careers,200,OK,Thread Group 1-5,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296735,12,Careers-0,301,Moved Permanently,Thread Group 1-5,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296748,3021,Careers-1,200,OK,Thread Group 1-5,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2914,0,0
+1650353296780,3020,Careers,200,OK,Thread Group 1-31,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296780,12,Careers-0,301,Moved Permanently,Thread Group 1-31,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296792,3008,Careers-1,200,OK,Thread Group 1-31,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2923,0,0
+1650353296687,3117,Careers,200,OK,Thread Group 1-27,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296687,15,Careers-0,301,Moved Permanently,Thread Group 1-27,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296703,3101,Careers-1,200,OK,Thread Group 1-27,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3039,0,0
+1650353296919,2892,Careers,200,OK,Thread Group 1-19,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296919,12,Careers-0,301,Moved Permanently,Thread Group 1-19,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353296931,2880,Careers-1,200,OK,Thread Group 1-19,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2866,0,0
+1650353296787,3108,Careers,200,OK,Thread Group 1-29,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353296787,20,Careers-0,301,Moved Permanently,Thread Group 1-29,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353296808,3087,Careers-1,200,OK,Thread Group 1-29,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2941,0,0
+1650353296665,3236,Careers,200,OK,Thread Group 1-24,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353296665,11,Careers-0,301,Moved Permanently,Thread Group 1-24,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,11,0,0
+1650353296677,3224,Careers-1,200,OK,Thread Group 1-24,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3051,0,0
+1650353296919,2985,Careers,200,OK,Thread Group 1-32,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296919,15,Careers-0,301,Moved Permanently,Thread Group 1-32,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,15,0,0
+1650353296934,2970,Careers-1,200,OK,Thread Group 1-32,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2908,0,0
+1650353296831,3083,Careers,200,OK,Thread Group 1-30,text,true,,83840,382,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353296831,16,Careers-0,301,Moved Permanently,Thread Group 1-30,text,true,,769,191,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353296847,3067,Careers-1,200,OK,Thread Group 1-30,text,true,,83071,191,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2990,0,0
+1650353296690,3238,About us,200,OK,Thread Group 1-21,text,true,,99879,398,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353296690,16,About us-0,301,Moved Permanently,Thread Group 1-21,text,true,,789,199,29,29,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353296706,3222,About us-1,200,OK,Thread Group 1-21,text,true,,99090,199,29,29,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,3113,0,0
+1650353296959,2996,About us,200,OK,Thread Group 1-6,text,true,,99879,398,28,28,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296959,18,About us-0,301,Moved Permanently,Thread Group 1-6,text,true,,789,199,28,28,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353296977,2978,About us-1,200,OK,Thread Group 1-6,text,true,,99090,199,28,28,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2921,0,0
+1650353296957,3025,Careers,200,OK,Thread Group 1-23,text,true,,83840,382,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353296957,20,Careers-0,301,Moved Permanently,Thread Group 1-23,text,true,,769,191,27,27,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,0
+1650353296977,3005,Careers-1,200,OK,Thread Group 1-23,text,true,,83071,191,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2933,0,0
+1650353297010,2990,Careers,200,OK,Thread Group 1-26,text,true,,83840,382,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353297010,13,Careers-0,301,Moved Permanently,Thread Group 1-26,text,true,,769,191,27,27,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353297023,2977,Careers-1,200,OK,Thread Group 1-26,text,true,,83071,191,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2876,0,0
+1650353297011,2989,About us,200,OK,Thread Group 1-13,text,true,,99879,398,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353297011,12,About us-0,301,Moved Permanently,Thread Group 1-13,text,true,,789,199,27,27,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353297023,2977,About us-1,200,OK,Thread Group 1-13,text,true,,99090,199,27,27,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2920,0,0
+1650353296864,3183,Careers,200,OK,Thread Group 1-9,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353296864,14,Careers-0,301,Moved Permanently,Thread Group 1-9,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,13,0,0
+1650353296878,3169,Careers-1,200,OK,Thread Group 1-9,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3028,0,0
+1650353296816,3236,Careers,200,OK,Thread Group 1-25,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353297391,2661,Careers,200,OK,Thread Group 1-38,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353296816,19,Careers-0,301,Moved Permanently,Thread Group 1-25,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,19,0,0
+1650353297391,14,Careers-0,301,Moved Permanently,Thread Group 1-38,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353296835,3217,Careers-1,200,OK,Thread Group 1-25,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,3082,0,0
+1650353297405,2647,Careers-1,200,OK,Thread Group 1-38,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2553,0,0
+1650353297489,2774,Careers,200,OK,Thread Group 1-34,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353297489,10,Careers-0,301,Moved Permanently,Thread Group 1-34,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353297499,2764,Careers-1,200,OK,Thread Group 1-34,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2663,0,0
+1650353297381,2990,Careers,200,OK,Thread Group 1-36,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353297381,12,Careers-0,301,Moved Permanently,Thread Group 1-36,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,12,0,0
+1650353297393,2978,Careers-1,200,OK,Thread Group 1-36,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2933,0,0
+1650353297894,2694,Careers,200,OK,Thread Group 1-35,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353297894,14,Careers-0,301,Moved Permanently,Thread Group 1-35,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,14,0,0
+1650353297908,2680,Careers-1,200,OK,Thread Group 1-35,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2607,0,0
+1650353297760,2902,Careers,200,OK,Thread Group 1-40,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353297760,18,Careers-0,301,Moved Permanently,Thread Group 1-40,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353297779,2883,Careers-1,200,OK,Thread Group 1-40,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2795,0,0
+1650353298087,2672,Careers,200,OK,Thread Group 1-33,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353298087,18,Careers-0,301,Moved Permanently,Thread Group 1-33,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,18,0,0
+1650353298105,2654,Careers-1,200,OK,Thread Group 1-33,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2591,0,0
+1650353298173,2686,Careers,200,OK,Thread Group 1-37,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,17,0,0
+1650353298173,17,Careers-0,301,Moved Permanently,Thread Group 1-37,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,17,0,0
+1650353298190,2669,Careers-1,200,OK,Thread Group 1-37,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2608,0,0
+1650353297947,3081,Careers,200,OK,Thread Group 1-39,text,true,,83840,382,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353297947,16,Careers-0,301,Moved Permanently,Thread Group 1-39,text,true,,769,191,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,16,0,0
+1650353297963,3065,Careers-1,200,OK,Thread Group 1-39,text,true,,83071,191,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,2971,0,0
+1650353298832,2435,About us,200,OK,Thread Group 1-11,text,true,,99879,398,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353298832,21,About us-0,301,Moved Permanently,Thread Group 1-11,text,true,,789,199,26,26,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353298853,2414,About us-1,200,OK,Thread Group 1-11,text,true,,99090,199,26,26,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2338,0,0
+1650353299380,2577,About us,200,OK,Thread Group 1-22,text,true,,99879,398,25,25,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299380,11,About us-0,301,Moved Permanently,Thread Group 1-22,text,true,,789,199,25,25,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299391,2566,About us-1,200,OK,Thread Group 1-22,text,true,,99090,199,25,25,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2537,0,0
+1650353299601,2356,About us,200,OK,Thread Group 1-12,text,true,,99879,398,25,25,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353299601,18,About us-0,301,Moved Permanently,Thread Group 1-12,text,true,,789,199,25,25,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,18,0,0
+1650353299620,2337,About us-1,200,OK,Thread Group 1-12,text,true,,99090,199,25,25,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2308,0,0
+1650353299691,2327,About us,200,OK,Thread Group 1-28,text,true,,99879,398,23,23,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353299691,17,About us-0,301,Moved Permanently,Thread Group 1-28,text,true,,789,199,23,23,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353299708,2310,About us-1,200,OK,Thread Group 1-28,text,true,,99090,199,23,23,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2280,0,0
+1650353299903,2116,About us,200,OK,Thread Group 1-24,text,true,,99879,398,23,23,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353299903,23,About us-0,301,Moved Permanently,Thread Group 1-24,text,true,,789,199,23,23,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353299926,2093,About us-1,200,OK,Thread Group 1-24,text,true,,99090,199,23,23,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2002,0,0
+1650353299571,2493,About us,200,OK,Thread Group 1-1,text,true,,99879,398,21,21,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353299571,15,About us-0,301,Moved Permanently,Thread Group 1-1,text,true,,789,199,21,21,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353299586,2478,About us-1,200,OK,Thread Group 1-1,text,true,,99090,199,21,21,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2419,0,0
+1650353299769,2324,About us,200,OK,Thread Group 1-5,text,true,,99879,398,20,20,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299769,11,About us-0,301,Moved Permanently,Thread Group 1-5,text,true,,789,199,20,20,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299780,2313,About us-1,200,OK,Thread Group 1-5,text,true,,99090,199,20,20,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2239,0,0
+1650353299804,2296,About us,200,OK,Thread Group 1-27,text,true,,99879,398,19,19,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353299804,18,About us-0,301,Moved Permanently,Thread Group 1-27,text,true,,789,199,19,19,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,17,0,0
+1650353299822,2278,About us-1,200,OK,Thread Group 1-27,text,true,,99090,199,19,19,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2203,0,0
+1650353299800,2328,About us,200,OK,Thread Group 1-31,text,true,,99879,398,18,18,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299800,11,About us-0,301,Moved Permanently,Thread Group 1-31,text,true,,789,199,18,18,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353299811,2317,About us-1,200,OK,Thread Group 1-31,text,true,,99090,199,18,18,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2226,0,0
+1650353299895,2239,About us,200,OK,Thread Group 1-29,text,true,,99879,398,17,17,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353299895,19,About us-0,301,Moved Permanently,Thread Group 1-29,text,true,,789,199,17,17,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353299914,2220,About us-1,200,OK,Thread Group 1-29,text,true,,99090,199,17,17,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2202,0,0
+1650353299983,2214,About us,200,OK,Thread Group 1-23,text,true,,99879,398,16,16,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353299983,16,About us-0,301,Moved Permanently,Thread Group 1-23,text,true,,789,199,16,16,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353299999,2198,About us-1,200,OK,Thread Group 1-23,text,true,,99090,199,16,16,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2179,0,0
+1650353300000,2269,About us,200,OK,Thread Group 1-26,text,true,,99879,398,15,15,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353300000,13,About us-0,301,Moved Permanently,Thread Group 1-26,text,true,,789,199,15,15,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,12,0,0
+1650353300013,2256,About us-1,200,OK,Thread Group 1-26,text,true,,99090,199,15,15,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2159,0,0
+1650353300053,2229,About us,200,OK,Thread Group 1-25,text,true,,99879,398,14,14,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353300053,15,About us-0,301,Moved Permanently,Thread Group 1-25,text,true,,789,199,14,14,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353300068,2214,About us-1,200,OK,Thread Group 1-25,text,true,,99090,199,14,14,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2183,0,0
+1650353299914,2410,About us,200,OK,Thread Group 1-30,text,true,,99879,398,13,13,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353299914,15,About us-0,301,Moved Permanently,Thread Group 1-30,text,true,,789,199,13,13,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,15,0,0
+1650353299929,2395,About us-1,200,OK,Thread Group 1-30,text,true,,99090,199,13,13,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2350,0,0
+1650353300053,2289,About us,200,OK,Thread Group 1-38,text,true,,99879,398,12,12,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353300053,20,About us-0,301,Moved Permanently,Thread Group 1-38,text,true,,789,199,12,12,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,20,0,0
+1650353300074,2268,About us-1,200,OK,Thread Group 1-38,text,true,,99090,199,12,12,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2248,0,0
+1650353299811,2579,About us,200,OK,Thread Group 1-19,text,true,,99879,398,11,11,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,10,0,0
+1650353299811,11,About us-0,301,Moved Permanently,Thread Group 1-19,text,true,,789,199,11,11,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,10,0,0
+1650353299822,2568,About us-1,200,OK,Thread Group 1-19,text,true,,99090,199,11,11,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2527,0,0
+1650353299905,2509,About us,200,OK,Thread Group 1-32,text,true,,99879,398,10,10,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,249,0,0
+1650353299905,249,About us-0,301,Moved Permanently,Thread Group 1-32,text,true,,789,199,10,10,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,249,0,0
+1650353300154,2260,About us-1,200,OK,Thread Group 1-32,text,true,,99090,199,10,10,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2239,0,0
+1650353300048,2406,About us,200,OK,Thread Group 1-9,text,true,,99879,398,9,9,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353300048,13,About us-0,301,Moved Permanently,Thread Group 1-9,text,true,,789,199,9,9,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353300061,2393,About us-1,200,OK,Thread Group 1-9,text,true,,99090,199,9,9,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2364,0,0
+1650353300264,2215,About us,200,OK,Thread Group 1-34,text,true,,99879,398,8,8,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353300264,21,About us-0,301,Moved Permanently,Thread Group 1-34,text,true,,789,199,8,8,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353300285,2194,About us-1,200,OK,Thread Group 1-34,text,true,,99090,199,8,8,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2173,0,0
+1650353300589,1923,About us,200,OK,Thread Group 1-35,text,true,,99879,398,7,7,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353300589,13,About us-0,301,Moved Permanently,Thread Group 1-35,text,true,,789,199,7,7,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,13,0,0
+1650353300602,1910,About us-1,200,OK,Thread Group 1-35,text,true,,99090,199,7,7,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,1886,0,0
+1650353300371,2151,About us,200,OK,Thread Group 1-36,text,true,,99879,398,6,6,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353300371,16,About us-0,301,Moved Permanently,Thread Group 1-36,text,true,,789,199,6,6,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,16,0,0
+1650353300387,2135,About us-1,200,OK,Thread Group 1-36,text,true,,99090,199,6,6,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,2112,0,0
+1650353300662,1912,About us,200,OK,Thread Group 1-40,text,true,,99879,398,5,5,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353300662,23,About us-0,301,Moved Permanently,Thread Group 1-40,text,true,,789,199,5,5,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,23,0,0
+1650353300685,1889,About us-1,200,OK,Thread Group 1-40,text,true,,99090,199,5,5,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,1862,0,0
+1650353300859,1732,About us,200,OK,Thread Group 1-37,text,true,,99879,398,4,4,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353300859,19,About us-0,301,Moved Permanently,Thread Group 1-37,text,true,,789,199,4,4,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353300878,1713,About us-1,200,OK,Thread Group 1-37,text,true,,99090,199,4,4,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,1683,0,0
+1650353300759,1842,About us,200,OK,Thread Group 1-33,text,true,,99879,398,3,3,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353300759,21,About us-0,301,Moved Permanently,Thread Group 1-33,text,true,,789,199,3,3,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,21,0,0
+1650353300781,1820,About us-1,200,OK,Thread Group 1-33,text,true,,99090,199,3,3,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,1801,0,0
+1650353301028,1590,About us,200,OK,Thread Group 1-39,text,true,,99879,398,2,2,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353301028,19,About us-0,301,Moved Permanently,Thread Group 1-39,text,true,,789,199,2,2,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,19,0,0
+1650353301048,1570,About us-1,200,OK,Thread Group 1-39,text,true,,99090,199,2,2,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,1549,0,0
+1650353276063,26601,Homepage,200,OK,Thread Group 1-14,text,true,,77824,264,1,1,https://www.nationalfertilizers.com/,4361,0,185
+1650353276063,4361,Homepage-0,301,Moved Permanently,Thread Group 1-14,text,true,,640,132,1,1,http://www.nationalfertilizers.com/,4361,0,185
+1650353280424,22240,Homepage-1,200,OK,Thread Group 1-14,text,true,,77184,132,1,1,https://www.nationalfertilizers.com/,22226,0,21100
+1650353302665,331,Careers,200,OK,Thread Group 1-14,text,true,,83841,382,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,10
+1650353302665,20,Careers-0,301,Moved Permanently,Thread Group 1-14,text,true,,770,191,1,1,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,20,0,10
+1650353302686,310,Careers-1,200,OK,Thread Group 1-14,text,true,,83071,191,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,297,0,0
+1650353302996,386,About us,200,OK,Thread Group 1-14,text,true,,99879,398,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353302996,11,About us-0,301,Moved Permanently,Thread Group 1-14,text,true,,789,199,1,1,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,11,0,0
+1650353303007,375,About us-1,200,OK,Thread Group 1-14,text,true,,99090,199,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,361,0,0
+1650353303382,306,Homepage,200,OK,Thread Group 1-14,text,true,,77822,264,1,1,https://www.nationalfertilizers.com/,10,0,0
+1650353303382,10,Homepage-0,301,Moved Permanently,Thread Group 1-14,text,true,,639,132,1,1,http://www.nationalfertilizers.com/,10,0,0
+1650353303392,296,Homepage-1,200,OK,Thread Group 1-14,text,true,,77183,132,1,1,https://www.nationalfertilizers.com/,285,0,0
+1650353303689,306,Careers,200,OK,Thread Group 1-14,text,true,,83840,382,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353303689,10,Careers-0,301,Moved Permanently,Thread Group 1-14,text,true,,769,191,1,1,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,10,0,0
+1650353303699,296,Careers-1,200,OK,Thread Group 1-14,text,true,,83071,191,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=344&Itemid=123,284,0,0
+1650353303996,307,About us,200,OK,Thread Group 1-14,text,true,,99879,398,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,9,0,0
+1650353303996,10,About us-0,301,Moved Permanently,Thread Group 1-14,text,true,,789,199,1,1,http://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,9,0,0
+1650353304006,297,About us-1,200,OK,Thread Group 1-14,text,true,,99090,199,1,1,https://www.nationalfertilizers.com/index.php?option=com_content&view=article&id=129&Itemid=123&lang=en,285,0,0
